@@ -7,3 +7,5 @@ springmvc02 : springmvc处理器方法接收前端数据的几种方式
 
 springmvc03 : springmvc处理器方法发送数据的几种方式
 
+springmvc04 : springmvc 测试Ant风格,Restful风格,重定向与转发,多个请求之间共用某个模型属性数据SessionAttributes
+
