@@ -11,3 +11,5 @@ springmvc04 : springmvc 测试Ant风格,Restful风格,重定向与转发,多个�
 
 springmvc05 : springmvc 测试JSON,springmvc的上传和下载
 
+springmvc06 : springmvc 测试1)配置自定义的全局拦截器,2)局部拦截器配置(配置拦截器作用的路径全部拦截器配置)，3)配置拦截器不作用的路径,4)可以直接转发的相应页面, 而无需再经过 Handler 的方法
+
